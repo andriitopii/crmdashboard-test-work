@@ -1,0 +1,15 @@
+@import "../../scss/abstracts/mixin.scss";
+
+.section-customers{
+   @include section-style;
+}
+
+th{
+    color: #292D32;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: -0.14px;
+}
